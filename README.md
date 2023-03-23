@@ -8,3 +8,5 @@
 * `python main.py`開始執行。
 * 自動開啟所有模擬器的Facebook (假設都已事先登入好帳號)。
 * 所有模擬器自動開始滑動動態牆。
+
+Full Article: https://medium.com/trytech/android自動化測試-搭配uiautomator2與android模擬器-83af7368f5c3
